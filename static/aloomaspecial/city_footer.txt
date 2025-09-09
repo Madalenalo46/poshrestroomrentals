@@ -1,0 +1,51 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is the process for ordering a portable toilet for an emergency situation?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For emergencies, we have a priority dispatch system. You can call our dedicated emergency line, and our logistics team will work to get units deployed to your location as quickly as humanly possible, often within a matter of hours.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How far in advance should I book my portable bathroom rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We recommend booking as far in advance as possible, especially for large events or during peak seasons like summer. For a single unit, a week's notice is often sufficient, but for multiple units or a restroom trailer, booking a month or more in advance is advisable.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent a portable toilet in the winter?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We offer winter-ready units that include a special brine solution in the tank to prevent freezing, ensuring they remain functional even in cold weather.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is your cleaning process between rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Every unit undergoes a rigorous multi-point sanitation process after it's returned. We empty and pressure wash the tank, scrub all interior surfaces with hospital-grade disinfectant, and restock it with premium supplies before it is certified ready for the next customer.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you handle waste disposal? Is it environmentally safe?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We are committed to environmentally responsible practices. All waste is pumped from the units and transported in sealed trucks to a licensed wastewater treatment facility, where it is disposed of in accordance with all local and environmental regulations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What supplies are included with the rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Every unit is delivered fully stocked and ready for use. This includes toilet paper, and for units with sinks, it also includes fresh water, hand soap, and paper towels. Servicing visits also include a complete restocking of all supplies.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
